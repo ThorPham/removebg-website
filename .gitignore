@@ -1,0 +1,4 @@
+backend/SEGMENTATION/weights/*
+removebg/build/*
+removebg/node_modules
+removebg/src/FirebaseConfig.js
